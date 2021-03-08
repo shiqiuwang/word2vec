@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@hz-t2.matpool.com:29908">
+    <serverData>
+      <paths name="root@hz-t2.matpool.com:26184">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_381" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:26547">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_506" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:26688">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_994" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:27165">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:27444">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_644" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:28313">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_813" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:29013">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:29515">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_677" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:29838">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:29908">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_749" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:34173">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_663" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:45477">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/pycharm_project_469" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
